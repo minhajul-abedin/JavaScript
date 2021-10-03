@@ -1,0 +1,5 @@
+console.log ('My name is Toyon')
+console.log ('String number is:' + 9)
+console.log (9+9)
+console.log ('9'+9)
+console.log ('9' + '9')
