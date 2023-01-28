@@ -1,6 +1,6 @@
 // define array
 
-var numbers = [12, 22, 33, 34, 535, 74];
+// var numbers = [12, 22, 33, 34, 535, 74];
 
 // console.log(numbers);
 
@@ -10,6 +10,19 @@ var numbers = [12, 22, 33, 34, 535, 74];
 
 
 
-console.log(numbers [2]);
+// 
+
+
+// var elements = numbers[4];
+
+
+
+var numbers = [22,33,44,55,66,77];
+
+
+ numbers[1] = 224;
+// var position = numbers.indexOf(33);
+
+console.log(numbers);
 
 
