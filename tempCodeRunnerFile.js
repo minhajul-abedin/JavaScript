@@ -1,2 +1,1 @@
-friends.push('Karina');
-// friends.push('Rabia');
+var fish = 20;
