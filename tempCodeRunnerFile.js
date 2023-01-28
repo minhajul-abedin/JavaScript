@@ -1,2 +1,2 @@
 friends.push('Karina');
-friends.push('Rabia');
+// friends.push('Rabia');
